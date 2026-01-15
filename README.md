@@ -31,19 +31,19 @@ The `HelloJava` program prints a welcome message and checks for command-line arg
 ## How to Compile and Run
 Open the Command Prompt in the `src` directory and run the following commands:
 
-```bash
-javac HelloJava.java
-java HelloJava Akshu Java Intern 
+    ```bash
+       javac HelloJava.java
+       java HelloJava Akshu Java Intern 
 
+## Output
 
-Output
 Hello, Java Developer Internship!
 Command-line arguments received:
 Argument 1: Akshu
 Argument 2: Java
 Argument 3: Intern
 
-Learning Outcome
+## Learning Outcome
 
 Understood the difference between JDK, JRE, and JVM
 
