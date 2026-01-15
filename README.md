@@ -17,13 +17,15 @@ This task involves verifying the Java installation, creating a basic Java progra
 
 ## Project Structure
 Java-Internship-Task-1/
-│
-├── src/
+│── src/
 │ └── HelloJava.java
-│
-├── Task-1-Execution-Proof.pdf
-│
-└── README.md
+│── bin/
+│ └── HelloJava.class
+│── .classpath
+│── .project
+│── .settings/
+│── TASK1.pdf
+│── README.md
 
 ## Program Description
 The `HelloJava` program prints a welcome message and checks for command-line arguments. If arguments are provided during execution, the program displays them one by one. If no arguments are passed, it prints an appropriate message.
