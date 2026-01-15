@@ -34,14 +34,14 @@ Open the Command Prompt in the `src` directory and run the following commands:
 ```bash
 javac HelloJava.java
 java HelloJava Akshu Java Intern
-Output
+
+
+## Output
 The program displays:
-
-A welcome message
-
+Hello, Java Developer Internship!
 The list of command-line arguments passed during execution
 
-Learning Outcome
+## Learning Outcome
 Understood the difference between JDK, JRE, and JVM
 
 Learned how Java source code is compiled into bytecode
