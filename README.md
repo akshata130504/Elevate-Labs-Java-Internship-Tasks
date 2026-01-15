@@ -1,4 +1,4 @@
-# Elevate-Labs-Java-Internship-Task1
+# Elevate-Labs-Java-Internship-Tasks
 
 
 # Java Developer Internship – Task 1
