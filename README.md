@@ -33,7 +33,7 @@ Open the Command Prompt in the `src` directory and run the following commands:
 
 ```bash
 javac HelloJava.java
-java HelloJava Akshu Java Intern
+java HelloJava Akshu Java Intern ```
 
 
 ## Output
